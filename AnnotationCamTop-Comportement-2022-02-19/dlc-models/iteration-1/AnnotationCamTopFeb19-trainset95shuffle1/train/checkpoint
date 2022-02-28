@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/comportement/Comportement-DLC-Train/AnnotationCamTop-Comportement-2022-02-19/dlc-models/iteration-1/AnnotationCamTopFeb19-trainset95shuffle1/train/snapshot-753500"
+all_model_checkpoint_paths: "/home/comportement/Comportement-DLC-Train/AnnotationCamTop-Comportement-2022-02-19/dlc-models/iteration-1/AnnotationCamTopFeb19-trainset95shuffle1/train/snapshot-751500"
+all_model_checkpoint_paths: "/home/comportement/Comportement-DLC-Train/AnnotationCamTop-Comportement-2022-02-19/dlc-models/iteration-1/AnnotationCamTopFeb19-trainset95shuffle1/train/snapshot-752000"
+all_model_checkpoint_paths: "/home/comportement/Comportement-DLC-Train/AnnotationCamTop-Comportement-2022-02-19/dlc-models/iteration-1/AnnotationCamTopFeb19-trainset95shuffle1/train/snapshot-752500"
+all_model_checkpoint_paths: "/home/comportement/Comportement-DLC-Train/AnnotationCamTop-Comportement-2022-02-19/dlc-models/iteration-1/AnnotationCamTopFeb19-trainset95shuffle1/train/snapshot-753000"
+all_model_checkpoint_paths: "/home/comportement/Comportement-DLC-Train/AnnotationCamTop-Comportement-2022-02-19/dlc-models/iteration-1/AnnotationCamTopFeb19-trainset95shuffle1/train/snapshot-753500"
