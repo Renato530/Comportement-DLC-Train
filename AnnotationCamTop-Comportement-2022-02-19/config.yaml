@@ -6,11 +6,13 @@ multianimalproject: false
 identity:
 
     # Project path (change when moving around)
-project_path: /home/comportement/Comportement-DLC-Train/AnnotationCamTop-Comportement-2022-02-19
+project_path: /home/rena/Comportement-DLC-Train/AnnotationCamTop-Comportement-2022-02-19
 
     # Annotation data set configuration (and individual video cropping parameters)
 video_sets:
   /home/rena/DLC-videos/out1_h264_acq1.mkv:
+    crop: 0, 960, 0, 720
+  /home/rena/DLC-videos/out2_fps3_aq1.mkv:
     crop: 0, 960, 0, 720
 bodyparts:
 - snout
@@ -42,7 +44,7 @@ colormap: rainbow
     # Training,Evaluation and Analysis configuration
 TrainingFraction:
 - 0.95
-iteration: 0
+iteration: 1
 default_net_type: resnet_50
 default_augmenter: default
 snapshotindex: -1
